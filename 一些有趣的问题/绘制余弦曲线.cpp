@@ -5,7 +5,7 @@
 #include <conio.h>
 using namespace std;
 
-int main(int argc, char* argv[]) //»æÖÆy[1,-1],¼´x[0,2¦Ğ]
+int main(int argc, char* argv[]) //ç»˜åˆ¶y[1,-1],å³x[0,2Ï€]
 {    
 	double y;
 	int x, m;
