@@ -4,10 +4,10 @@
 #include <iomanip>
 using namespace std;
 
-//´òÓ¡Ñî»ÔÈı½Ç£¬Ê¹ÓÃ¶şÎ¬Êı×é
+//æ‰“å°æ¨è¾‰ä¸‰è§’ï¼Œä½¿ç”¨äºŒç»´æ•°ç»„
 int main(int argc, char* argv[])
 {    
-	int a[11][11] = {0};
+	int a[12][12] = {0};
 	for (int i = 1;i<=11;i++)
 	{
 		a[i][1] = 1;
