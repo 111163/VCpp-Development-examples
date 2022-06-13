@@ -1,12 +1,11 @@
-// 控制台项目.cpp : 定义控制台应用程序的入口点。
-//
-
-#include "stdafx.h"
+#include <stdio.h>
+#include <iostream>
 #include <string>
 #include <iomanip>
+using namespace std;
 
 //打印杨辉三角，使用二维数组
-int _tmain(int argc, _TCHAR* argv[])
+int main(int argc, char* argv[])
 {    
 	int a[11][11] = {0};
 	for (int i = 1;i<=11;i++)
@@ -28,8 +27,3 @@ int _tmain(int argc, _TCHAR* argv[])
 	getchar();
 	return 0;
 }
-
-
-
-
-
