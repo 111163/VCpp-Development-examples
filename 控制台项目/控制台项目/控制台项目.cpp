@@ -2,32 +2,30 @@
 //
 
 #include "stdafx.h"
+#include <stdio.h>
 #include <string>
 #include <iomanip>
+using namespace std;
 
-//打印杨辉三角，使用二维数组
 int _tmain(int argc, _TCHAR* argv[])
-{    
-	int a[11][11] = {0};
-	for (int i = 1;i<=11;i++)
+{   
+	int aa[14] = {0},j = 0;
+	for (int i = 1; i <= 13; i++)
 	{
-		a[i][1] = 1;
-		a[i][i] = 1;
+		int b = 0;
+		for (; b < i ;j++)
+			if (0 == aa[j % 13 + 1]) 
+				b++;
+		aa[j % 13] = i;
 	}
-	for (int i = 3; i<=11 ; i++)
-	{
-		for (int j = 2; j<= i-1; j++)
-			a[i][j] = a[i-1][j] + a[i-1][j-1]; 
-	}
-	for (int i = 1;i<=11;i++)
-	{
-		for (int j = 1; j<=i;j++)
-			cout << setw(5)<<a[i][j];
-		cout << endl;
-	}
+	aa[13] = aa[j%13];
+	for (int i = 1; i <= 13; i++)
+		cout << aa[i] << "  ";
 	getchar();
+
 	return 0;
 }
+
 
 
 
