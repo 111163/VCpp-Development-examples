@@ -1,10 +1,10 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 #include <iostream>
 #include <string>
 using namespace std;
 
 
-int main(int argc, _TCHAR* argv[])
+int main(int argc, char* argv[])
 {      
 	for (int a = 1;a < 6;a++)
 	{

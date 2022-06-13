@@ -1,12 +1,11 @@
-// 控制台项目.cpp : 定义控制台应用程序的入口点。
-//
-
-#include "stdafx.h"
+#include <stdio.h>
+#include <iostream>
 #include <string>
 #include <math.h>
 #include <conio.h>
+using namespace std;
 
-int _tmain(int argc, _TCHAR* argv[])
+int main(int argc, char* argv[]) //绘制y[1,-1],即x[0,2π]
 {    
 	double y;
 	int x, m;
@@ -23,8 +22,3 @@ int _tmain(int argc, _TCHAR* argv[])
 	getchar();
 	return 0;
 }
-
-
-
-
-

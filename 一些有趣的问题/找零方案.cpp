@@ -4,7 +4,7 @@
 using namespace std;
 
 
-int main(int argc, _TCHAR* argv[])
+int main(int argc, char* argv[])
 {      
 //10元钱找零钱思路,1元2元5元可以供兑换
 	for (int i = 0 ; i <= (10/1); i++)

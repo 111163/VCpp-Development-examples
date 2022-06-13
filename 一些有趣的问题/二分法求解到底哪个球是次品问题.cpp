@@ -5,7 +5,7 @@ using namespace std;
 
 int Weight(int* , int, int);
 
-int main(int argc, _TCHAR* argv[])
+int main(int argc, char* argv[])
 {      
 	int aa[10] = {1,1,1,1,1,2,1,1,1,1};//  2,  ,2 
 	cout << Weight(aa, 0, 10) + 1;
