@@ -1,7 +1,3 @@
-ï»¿// æ§åˆ¶å°é¡¹ç›®.cpp : å®šä¹‰æ§åˆ¶å°åº”ç”¨ç¨‹åºçš„å…¥å£ç‚¹ã€‚
-//
-
-#include "stdafx.h"
 #include <stdio.h>
 #include <string>
 #include <iomanip>
@@ -9,7 +5,7 @@
 #include <conio.h>
 using namespace std;
 
-void sort(char *strings[], int n)    //å¯¹å­—ç¬¦ä¸²æ’åº
+void sort(char *strings[], int n)    //¶Ô×Ö·û´®ÅÅĞò
 {
 	char *temp;
 	int i, j;
@@ -17,7 +13,7 @@ void sort(char *strings[], int n)    //å¯¹å­—ç¬¦ä¸²æ’åº
 	{
 		for (j = i + 1; j < n; j++)
 		{
-			if (strcmp(strings[i], strings[j]) > 0)  //æ¯”è¾ƒå­—ç¬¦å¤§å°ï¼Œäº¤æ¢ä½ç½®
+			if (strcmp(strings[i], strings[j]) > 0)  //±È½Ï×Ö·û´óĞ¡£¬½»»»Î»ÖÃ
 			{
 				temp = strings[i];
 				strings[i] = strings[j];
@@ -29,26 +25,18 @@ void sort(char *strings[], int n)    //å¯¹å­—ç¬¦ä¸²æ’åº
 
 int main(int argc, char* argv[])
 {  
-	
+
 	int n = 5;
 	int i;
 	char *strings[] =
 	{
 		"C language", "Basic", "World wide", "Hello world",
 		"One world,one dream!"
-	};                                                            //æ„é€ å­—ç¬¦ä¸²æ•°ç»„
-	sort(strings, n);                                                //æ’åº
+	};                                                            //¹¹Ôì×Ö·û´®Êı×é
+	sort(strings, n);                                                //ÅÅĞò
 	for (i = 0; i < n; i++)
 		printf("%s\n", strings[i]);
 
 	getchar();
 	return 0;
 }
-
-//int _tmain(int argc, _TCHAR* argv[])
-
-
-
-
-
-
