@@ -1,7 +1,3 @@
-ï»¿// æ§åˆ¶å°é¡¹ç›®.cpp : å®šä¹‰æ§åˆ¶å°åº”ç”¨ç¨‹åºçš„å…¥å£ç‚¹ã€‚
-//
-
-#include "stdafx.h"
 #include <stdio.h>
 #include <string>
 #include <iomanip>
@@ -10,20 +6,16 @@
 using namespace std;
 
 
-int add(int a, int b)
-{
-	return a + b;
-}
-
-//int main(int argc, char* argv[])
-int _tmain(int argc, _TCHAR* argv[])
+int main(int argc, char* argv[])
 {  
+	// ¸³Öµ
 	int a[10] = {0},temp, num;
 	for (int i = 0;i < 10 ;i++)
 	{
 		cout << "a[" << i << "]=";
 		cin >> a[i];
 	}
+	// ÏÈÅÅĞò
 	for (int i = 0; i < 9;i++)
 	{
 		for (int j = i + 1;j < 10;j++)
@@ -36,10 +28,10 @@ int _tmain(int argc, _TCHAR* argv[])
 			}
 		}
 	}
-
-	cout<<"è¾“å…¥è¦æŸ¥æ‰¾çš„æ•°æ®ï¼š"<<"\n";
+	// ÏÔÊ¾ÅÅºÃĞòµÄ
+	cout<<"ÊäÈëÒª²éÕÒµÄÊı¾İ£º"<<"\n";
 	cin >> num;
-	cout<<"è¾“å‡ºæ•°ç»„ï¼š"<<"\n";
+	cout<<"Êä³öÊı×é£º"<<"\n";
 	for(int i=0;i<10;i++)
 	{
 		cout<< "a["<< i <<"]=" << a[i]<<"\t";
@@ -47,29 +39,28 @@ int _tmain(int argc, _TCHAR* argv[])
 			cout<<"\n";
 	}
 	cout<< endl;
-
-
+	//¶ş·Ö²éÕÒ(Ò»¶¨ÊÇ»ùÓÚÅÅºÃĞòµÄ)£¬×¢Òâ¿¼ÂÇÖØ¸´ÔªËØ
 	int left = 0, right = 9, mid, l = 0,r = 0, n = 0;
 	while(left < right)
 	{
 		mid = (left + right)/ 2;
 		if (a[mid] == num)
 		{
- 			for(int i = mid ; i > left; i--)
- 			{
- 				if (a[i - 1] != a [i])break;
- 				l++;
- 			}
- 			for(int i = mid ; i < right; i++)
- 			{
- 				if ( a[i] != a[i + 1])break;
- 				r++;
- 			}	
-			// å…±æ‰¾åˆ°å‡ ä¸ª
+			for(int i = mid ; i > left; i--)
+			{
+				if (a[i - 1] != a [i])break;
+				l++;
+			}
+			for(int i = mid ; i < right; i++)
+			{
+				if ( a[i] != a[i + 1])break;
+				r++;
+			}	
+			// ¹²ÕÒµ½¼¸¸ö
 			n = l + r + 1;
 			for (int i = mid - l; i <= mid + r ;i++)
 			{
-				cout << "è¦æŸ¥æ‰¾çš„å…ƒç´ æ˜¯ï¼š" << "\n";
+				cout << "Òª²éÕÒµÄÔªËØÊÇ£º" << "\n";
 				cout << "a["<< i <<"]="<< num << "\n";
 			}
 			break;
@@ -80,14 +71,7 @@ int _tmain(int argc, _TCHAR* argv[])
 			left = mid + 1;
 	}
 	if(0==n)
-		cout<<"è¦æŸ¥æ‰¾çš„å…ƒç´ ä¸å­˜åœ¨ï¼"<<"\n";
+		cout<<"Òª²éÕÒµÄÔªËØ²»´æÔÚ£¡"<<"\n";
 	getchar();
 	return 0;
 }  
-
-
-
-
-
-
-
