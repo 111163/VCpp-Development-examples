@@ -17,3 +17,14 @@ int  deleteElement(int b[],int n)
 	}
 	return n;
 }
+
+
+//使用者提供了有序序列重复的位置(数组位置，不是实际位置)，和数量，进行删除操作
+int deleteElement(int b[],int n,int i,int len) 
+{                      /*形参为数组名*/
+      int *p,*q;
+      if (i<1 && i+len >n)  return 0;
+      for (q=b+i,p=b+i+len;q<b+n;p++,q++)
+            *q=*p;
+      return n-len;
+}
