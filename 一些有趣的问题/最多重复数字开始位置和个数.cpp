@@ -1,7 +1,3 @@
-О╩©// Ф▌╖Е┬╤Е▐╟И║╧Г⌡╝.cpp : Е╝ Д╧┴Ф▌╖Е┬╤Е▐╟Е╨■Г■╗Г╗▀Е╨▐Г └Е┘╔Е▐ёГ┌╧Ц─┌
-//
-
-#include "stdafx.h"
 #include <stdio.h>
 #include <string>
 #include <iomanip>
@@ -10,8 +6,7 @@
 using namespace std;
 
 
-//int main(int argc, char* argv[])
-int _tmain(int argc, _TCHAR* argv[])
+int main(int argc, char* argv[])
 {  
 	int a[10]={2,5,3,6,7,7,7,4,7,3};
 	int i=0;
@@ -30,10 +25,10 @@ int _tmain(int argc, _TCHAR* argv[])
 		if (i-j+1>len) 
 		{
 			len=i-j+1;
-			k=j;                         /*Х╝╟Д╦▀Ф°─И∙©Г └Д╦▀Ф═┤*/
+			k=j;                         /*╪гобвНЁ╓╣доб╠Й*/
 		}
-		i++;                                    /*Х©·Г╩╜Д╦╓Д╦╙Ф∙╟Ф█╝Д╦█Г╜┴*/
-		j=i;                                      /*Х╝╟Д╦▀Д╦▀Д╦─Д╦╙Е╪─Е╖▀Д╫█Г╫╝*/
+		i++;                                    /*а╛пЬа╫╦ЖйЩ╬щ╡╩╣х*/
+		j=i;                                      /*╪гобобр╩╦Ж©╙й╪н╩жц*/
 	}
 	printf("Same max len is %d, Postion is %d\n",len,k);            
 	getchar();      
