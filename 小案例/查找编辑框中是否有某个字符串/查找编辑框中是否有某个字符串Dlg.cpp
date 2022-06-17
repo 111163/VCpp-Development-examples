@@ -157,11 +157,12 @@ HCURSOR C查找编辑框中是否有某个字符串Dlg::OnQueryDragIcon()
 }
 
 
-
+// 这里是一行只有一个串
+// 如果一行中有多个串，可以再将strArray中的每个元素，再执行Find(" "),装入另一个CStringArray中，就获取到了所以的串
 void C查找编辑框中是否有某个字符串Dlg::OnBnClickedButton1()
 {
 	UpdateData(TRUE);
-	CString tmp = m_strInput;
+	CString tmp = m_strInput;  
 	int pos = tmp.Find("\r\n"), i = 0; // \r\n被视为一个字符   ---- 查找\r\n来分行[行数据操作]
 	while (pos >= 0)
 	{
