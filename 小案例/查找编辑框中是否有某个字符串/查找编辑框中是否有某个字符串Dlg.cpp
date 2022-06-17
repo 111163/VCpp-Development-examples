@@ -159,6 +159,7 @@ HCURSOR C查找编辑框中是否有某个字符串Dlg::OnQueryDragIcon()
 
 // 这里是一行只有一个串
 // 如果一行中有多个串，可以再将strArray中的每个元素，再执行Find(" "),装入另一个CStringArray中，就获取到了所以的串
+// 整个思路是先切分行，再切分串
 void C查找编辑框中是否有某个字符串Dlg::OnBnClickedButton1()
 {
 	UpdateData(TRUE);
