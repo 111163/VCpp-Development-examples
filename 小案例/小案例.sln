@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "在光标位置加入字符
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "从串中取数字串", "从串中取数字串\从串中取数字串.vcxproj", "{0A2CFDFB-4E22-4B10-B5B0-8CCAAD1A4045}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "将选中的小写字符转换为大写", "将选中的小写字符转换为大写\将选中的小写字符转换为大写.vcxproj", "{5503702D-0989-49D4-A2F5-5989A48D5BC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -43,6 +45,10 @@ Global
 		{0A2CFDFB-4E22-4B10-B5B0-8CCAAD1A4045}.Debug|Win32.Build.0 = Debug|Win32
 		{0A2CFDFB-4E22-4B10-B5B0-8CCAAD1A4045}.Release|Win32.ActiveCfg = Release|Win32
 		{0A2CFDFB-4E22-4B10-B5B0-8CCAAD1A4045}.Release|Win32.Build.0 = Release|Win32
+		{5503702D-0989-49D4-A2F5-5989A48D5BC6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5503702D-0989-49D4-A2F5-5989A48D5BC6}.Debug|Win32.Build.0 = Debug|Win32
+		{5503702D-0989-49D4-A2F5-5989A48D5BC6}.Release|Win32.ActiveCfg = Release|Win32
+		{5503702D-0989-49D4-A2F5-5989A48D5BC6}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
