@@ -5,6 +5,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "提取字符串中汉字", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "英文字符串首字母大写", "英文字符串首字母大写\英文字符串首字母大写.vcxproj", "{D1EC4F20-7048-4FD3-85B4-168DA85953F6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "指定一个符号分割字符串", "指定一个符号分割字符串\指定一个符号分割字符串.vcxproj", "{CC674E30-07AC-4ADB-A41D-705C9B91C38A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -19,6 +21,10 @@ Global
 		{D1EC4F20-7048-4FD3-85B4-168DA85953F6}.Debug|Win32.Build.0 = Debug|Win32
 		{D1EC4F20-7048-4FD3-85B4-168DA85953F6}.Release|Win32.ActiveCfg = Release|Win32
 		{D1EC4F20-7048-4FD3-85B4-168DA85953F6}.Release|Win32.Build.0 = Release|Win32
+		{CC674E30-07AC-4ADB-A41D-705C9B91C38A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CC674E30-07AC-4ADB-A41D-705C9B91C38A}.Debug|Win32.Build.0 = Debug|Win32
+		{CC674E30-07AC-4ADB-A41D-705C9B91C38A}.Release|Win32.ActiveCfg = Release|Win32
+		{CC674E30-07AC-4ADB-A41D-705C9B91C38A}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
