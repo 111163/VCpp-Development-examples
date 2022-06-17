@@ -166,7 +166,7 @@ void C将选中的小写字符转换为大写Dlg::OnBnClickedButton1()
 	if (i != j)
 	{
 		tmp = m_strEdit.Mid(i, j - i);
-		tmp.MakeUpper();
+		tmp.MakeUpper(); //转换为小写使用的是MakeLower()方法，但一定要注意是CSing类型
 		m_strEdit = m_strEdit.Left(i) + tmp + m_strEdit.Right(m_strEdit.GetLength() - j);
 	}
 	UpdateData(FALSE);
