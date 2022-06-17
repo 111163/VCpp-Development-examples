@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "跨程序复制操作", "�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ListBox的操作", "ListBox的操作\ListBox的操作.vcxproj", "{38E965F0-B159-4D5B-B4D8-BB6DC5C0545C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "查找编辑框中是否有某个字符串", "查找编辑框中是否有某个字符串\查找编辑框中是否有某个字符串.vcxproj", "{27B6BF62-050D-449C-9A0D-282A241C0205}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -67,6 +69,10 @@ Global
 		{38E965F0-B159-4D5B-B4D8-BB6DC5C0545C}.Debug|Win32.Build.0 = Debug|Win32
 		{38E965F0-B159-4D5B-B4D8-BB6DC5C0545C}.Release|Win32.ActiveCfg = Release|Win32
 		{38E965F0-B159-4D5B-B4D8-BB6DC5C0545C}.Release|Win32.Build.0 = Release|Win32
+		{27B6BF62-050D-449C-9A0D-282A241C0205}.Debug|Win32.ActiveCfg = Debug|Win32
+		{27B6BF62-050D-449C-9A0D-282A241C0205}.Debug|Win32.Build.0 = Debug|Win32
+		{27B6BF62-050D-449C-9A0D-282A241C0205}.Release|Win32.ActiveCfg = Release|Win32
+		{27B6BF62-050D-449C-9A0D-282A241C0205}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
