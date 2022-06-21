@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "模态与非模态", "模态与非模态\模态与非模态.vcxproj", "{F363EC69-D769-4546-98FB-C0F3C882F058}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "屏幕保护程序", "屏幕保护程序\屏幕保护程序.vcxproj", "{9D9A03AF-D768-4D6F-9DC4-1CA9A9896C8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -13,6 +15,10 @@ Global
 		{F363EC69-D769-4546-98FB-C0F3C882F058}.Debug|Win32.Build.0 = Debug|Win32
 		{F363EC69-D769-4546-98FB-C0F3C882F058}.Release|Win32.ActiveCfg = Release|Win32
 		{F363EC69-D769-4546-98FB-C0F3C882F058}.Release|Win32.Build.0 = Release|Win32
+		{9D9A03AF-D768-4D6F-9DC4-1CA9A9896C8C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9D9A03AF-D768-4D6F-9DC4-1CA9A9896C8C}.Debug|Win32.Build.0 = Debug|Win32
+		{9D9A03AF-D768-4D6F-9DC4-1CA9A9896C8C}.Release|Win32.ActiveCfg = Release|Win32
+		{9D9A03AF-D768-4D6F-9DC4-1CA9A9896C8C}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
