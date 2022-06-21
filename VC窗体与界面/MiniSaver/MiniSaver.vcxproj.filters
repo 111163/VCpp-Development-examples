@@ -33,5 +33,14 @@
     <None Include="icon1.ico">
       <Filter>资源文件</Filter>
     </None>
+    <None Include="bitmap1.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="bitmap2.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="1.bmp">
+      <Filter>资源文件</Filter>
+    </None>
   </ItemGroup>
 </Project>
