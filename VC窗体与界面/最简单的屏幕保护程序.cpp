@@ -34,3 +34,7 @@ BOOL WINAPI RegisterDialogClasses(HANDLE hInst)
 {
 	return TRUE;
 }
+
+
+// 其实这里有点类似于dll的动态加载(实际上我认为dll注入类似于此)
+// 屏幕保护程序可以作为一个病毒，来影响到操作系统，这里要注意到，因为进行了注入，而注入的内容就因人而异了
