@@ -75,10 +75,13 @@ LRESULT WINAPI ScreenSaverProc(HWND hWnd,UINT message, WPARAM wParam, LPARAM lPa
 		SetTextColor(hDC,RGB(255*rand(),255*rand(),255*rand()));
 		SetBkColor(hDC,RGB(0,0,0));
 
+
+		//////////////////////////////////////////////////////////////////////////
 		tim = CTime::GetCurrentTime();
 		time = tim.Format("%Y-%m-%d %H:%M:%S %A");      //注意大小写，否则报错
+		//////////////////////////////////////////////////////////////////////////
 
-		TextOut(hDC,xpos,GetSystemMetrics(SM_CYSCREEN)-25,time,time.GetLength()); //SlideText,strlen(SlideText)
+		TextOut(hDC,xpos,GetSystemMetrics(SM_CYSCREEN)-25,time,time.GetLength()); // 如果想输出固定的内容用这个替换   SlideText,strlen(SlideText)
 		xpos=(xpos+10)%GetSystemMetrics(SM_CXSCREEN);
 		ReleaseDC(hWnd,hDC);
 		break;
