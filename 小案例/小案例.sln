@@ -15,8 +15,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "从串中取数字串", "�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "将选中的小写字符转换为大写", "将选中的小写字符转换为大写\将选中的小写字符转换为大写.vcxproj", "{5503702D-0989-49D4-A2F5-5989A48D5BC6}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "测试", "测试\测试.vcxproj", "{D6A0EA86-C0EB-42EC-90CF-99E2919C2A54}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "跨程序复制操作", "跨程序复制操作\跨程序复制操作.vcxproj", "{208DC509-D732-4AEE-AD20-680F65022E0E}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ListBox的操作", "ListBox的操作\ListBox的操作.vcxproj", "{38E965F0-B159-4D5B-B4D8-BB6DC5C0545C}"
@@ -26,6 +24,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "获取到系统盘符", "获取到系统盘符\获取到系统盘符.vcxproj", "{FB75CE3D-049C-47E5-9C76-948B2C9E84A6}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "复制串", "复制串\复制串.vcxproj", "{93ECD565-2A03-4BE9-952A-D42587EA3574}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "固定长度的数组参数", "固定长度的数组参数\固定长度的数组参数.vcxproj", "{C3711E21-1120-4E9F-AB40-C08229F2CE8A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,10 +61,6 @@ Global
 		{5503702D-0989-49D4-A2F5-5989A48D5BC6}.Debug|Win32.Build.0 = Debug|Win32
 		{5503702D-0989-49D4-A2F5-5989A48D5BC6}.Release|Win32.ActiveCfg = Release|Win32
 		{5503702D-0989-49D4-A2F5-5989A48D5BC6}.Release|Win32.Build.0 = Release|Win32
-		{D6A0EA86-C0EB-42EC-90CF-99E2919C2A54}.Debug|Win32.ActiveCfg = Debug|Win32
-		{D6A0EA86-C0EB-42EC-90CF-99E2919C2A54}.Debug|Win32.Build.0 = Debug|Win32
-		{D6A0EA86-C0EB-42EC-90CF-99E2919C2A54}.Release|Win32.ActiveCfg = Release|Win32
-		{D6A0EA86-C0EB-42EC-90CF-99E2919C2A54}.Release|Win32.Build.0 = Release|Win32
 		{208DC509-D732-4AEE-AD20-680F65022E0E}.Debug|Win32.ActiveCfg = Debug|Win32
 		{208DC509-D732-4AEE-AD20-680F65022E0E}.Debug|Win32.Build.0 = Debug|Win32
 		{208DC509-D732-4AEE-AD20-680F65022E0E}.Release|Win32.ActiveCfg = Release|Win32
@@ -85,6 +81,10 @@ Global
 		{93ECD565-2A03-4BE9-952A-D42587EA3574}.Debug|Win32.Build.0 = Debug|Win32
 		{93ECD565-2A03-4BE9-952A-D42587EA3574}.Release|Win32.ActiveCfg = Release|Win32
 		{93ECD565-2A03-4BE9-952A-D42587EA3574}.Release|Win32.Build.0 = Release|Win32
+		{C3711E21-1120-4E9F-AB40-C08229F2CE8A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C3711E21-1120-4E9F-AB40-C08229F2CE8A}.Debug|Win32.Build.0 = Debug|Win32
+		{C3711E21-1120-4E9F-AB40-C08229F2CE8A}.Release|Win32.ActiveCfg = Release|Win32
+		{C3711E21-1120-4E9F-AB40-C08229F2CE8A}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
