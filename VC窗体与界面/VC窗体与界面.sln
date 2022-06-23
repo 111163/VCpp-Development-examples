@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "屏幕保护程序", "屏�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MiniSaver", "MiniSaver\MiniSaver.vcxproj", "{541BE4D8-2B7F-438F-9DE9-D55617C5DDE0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "存储窗体位置", "存储窗体位置\存储窗体位置.vcxproj", "{E7D98F4F-AE89-435F-BD53-D7E45FB02225}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -25,6 +27,10 @@ Global
 		{541BE4D8-2B7F-438F-9DE9-D55617C5DDE0}.Debug|Win32.Build.0 = Debug|Win32
 		{541BE4D8-2B7F-438F-9DE9-D55617C5DDE0}.Release|Win32.ActiveCfg = Release|Win32
 		{541BE4D8-2B7F-438F-9DE9-D55617C5DDE0}.Release|Win32.Build.0 = Release|Win32
+		{E7D98F4F-AE89-435F-BD53-D7E45FB02225}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E7D98F4F-AE89-435F-BD53-D7E45FB02225}.Debug|Win32.Build.0 = Debug|Win32
+		{E7D98F4F-AE89-435F-BD53-D7E45FB02225}.Release|Win32.ActiveCfg = Release|Win32
+		{E7D98F4F-AE89-435F-BD53-D7E45FB02225}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
