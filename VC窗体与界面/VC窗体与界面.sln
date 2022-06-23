@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MiniSaver", "MiniSaver\Mini
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "存储窗体位置", "存储窗体位置\存储窗体位置.vcxproj", "{E7D98F4F-AE89-435F-BD53-D7E45FB02225}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "简单Gif", "简单Gif\简单Gif.vcxproj", "{A1850746-3CE5-4BD2-A36A-10B792B7D8D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -31,6 +33,10 @@ Global
 		{E7D98F4F-AE89-435F-BD53-D7E45FB02225}.Debug|Win32.Build.0 = Debug|Win32
 		{E7D98F4F-AE89-435F-BD53-D7E45FB02225}.Release|Win32.ActiveCfg = Release|Win32
 		{E7D98F4F-AE89-435F-BD53-D7E45FB02225}.Release|Win32.Build.0 = Release|Win32
+		{A1850746-3CE5-4BD2-A36A-10B792B7D8D2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A1850746-3CE5-4BD2-A36A-10B792B7D8D2}.Debug|Win32.Build.0 = Debug|Win32
+		{A1850746-3CE5-4BD2-A36A-10B792B7D8D2}.Release|Win32.ActiveCfg = Release|Win32
+		{A1850746-3CE5-4BD2-A36A-10B792B7D8D2}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
