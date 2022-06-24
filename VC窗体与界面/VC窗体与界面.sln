@@ -15,6 +15,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "打击小游戏", "打击�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "自定义资源的操作", "自定义资源的操作\自定义资源的操作.vcxproj", "{2FCF0A37-B891-4A79-A108-BE792ADCA9F4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TextDll", "TextDll\TextDll.vcxproj", "{FC06F95C-D85B-427B-9E04-A04D5E7D1B0E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "textDemo", "textDemo\textDemo.vcxproj", "{E253A0FC-6D8A-46D5-AFBB-5BA4EAD10A7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -49,6 +53,14 @@ Global
 		{2FCF0A37-B891-4A79-A108-BE792ADCA9F4}.Debug|Win32.Build.0 = Debug|Win32
 		{2FCF0A37-B891-4A79-A108-BE792ADCA9F4}.Release|Win32.ActiveCfg = Release|Win32
 		{2FCF0A37-B891-4A79-A108-BE792ADCA9F4}.Release|Win32.Build.0 = Release|Win32
+		{FC06F95C-D85B-427B-9E04-A04D5E7D1B0E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FC06F95C-D85B-427B-9E04-A04D5E7D1B0E}.Debug|Win32.Build.0 = Debug|Win32
+		{FC06F95C-D85B-427B-9E04-A04D5E7D1B0E}.Release|Win32.ActiveCfg = Release|Win32
+		{FC06F95C-D85B-427B-9E04-A04D5E7D1B0E}.Release|Win32.Build.0 = Release|Win32
+		{E253A0FC-6D8A-46D5-AFBB-5BA4EAD10A7F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E253A0FC-6D8A-46D5-AFBB-5BA4EAD10A7F}.Debug|Win32.Build.0 = Debug|Win32
+		{E253A0FC-6D8A-46D5-AFBB-5BA4EAD10A7F}.Release|Win32.ActiveCfg = Release|Win32
+		{E253A0FC-6D8A-46D5-AFBB-5BA4EAD10A7F}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
