@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "简单Gif", "简单Gif\简�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "打击小游戏", "打击小游戏\打击小游戏.vcxproj", "{A47EBB3C-E527-42F9-B977-03931875186D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "自定义资源的操作", "自定义资源的操作\自定义资源的操作.vcxproj", "{2FCF0A37-B891-4A79-A108-BE792ADCA9F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -43,6 +45,10 @@ Global
 		{A47EBB3C-E527-42F9-B977-03931875186D}.Debug|Win32.Build.0 = Debug|Win32
 		{A47EBB3C-E527-42F9-B977-03931875186D}.Release|Win32.ActiveCfg = Release|Win32
 		{A47EBB3C-E527-42F9-B977-03931875186D}.Release|Win32.Build.0 = Release|Win32
+		{2FCF0A37-B891-4A79-A108-BE792ADCA9F4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2FCF0A37-B891-4A79-A108-BE792ADCA9F4}.Debug|Win32.Build.0 = Debug|Win32
+		{2FCF0A37-B891-4A79-A108-BE792ADCA9F4}.Release|Win32.ActiveCfg = Release|Win32
+		{2FCF0A37-B891-4A79-A108-BE792ADCA9F4}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
