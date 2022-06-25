@@ -11,7 +11,7 @@ int _tmain(int argc, _TCHAR* argv[])
 
 	//CIEControl::SetDefPage("www.12345.com"); // 设置默认页面为www.12345.com
 
-	//CIEControl::ShowPopMenu(false); // 改变了IE浏览器出现时的策略到的是在最前端还是在最后端
+	//CIEControl::ShowPopMenu(false); // // 隐藏或显示弹出式菜单
 	//CIEControl::ShowPopMenu(true);  // 设置window titile项为www.12345.com
 	CIEControl::SetCaption("www.12345.com");
 	return 0;
