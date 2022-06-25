@@ -21,4 +21,5 @@ public:
 	bool OpenFile(const char *pszFileName, int nFlag=0);// 打开文件
 	int RradFile(char *pBuffer, int nLen); // 读取文件
 	int WriteFile(char *pBuffe, int nLen); // 写入文件
+	// 如果想要进行更加灵活的读写，要进一步的封装例如加入CloseFile(),还有文件指针的移动，读写权限的设定等
 };
