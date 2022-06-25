@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TextDll2", "TextDll2\TextDl
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TextDemo2", "TextDemo2\TextDemo2.vcxproj", "{E902AEE3-CCA4-4E74-BC57-65B837BC929E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "更改图标测试", "更改图标测试\更改图标测试.vcxproj", "{9BAB41CE-52F1-4155-988F-DCBCD8453557}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -73,6 +75,10 @@ Global
 		{E902AEE3-CCA4-4E74-BC57-65B837BC929E}.Debug|Win32.Build.0 = Debug|Win32
 		{E902AEE3-CCA4-4E74-BC57-65B837BC929E}.Release|Win32.ActiveCfg = Release|Win32
 		{E902AEE3-CCA4-4E74-BC57-65B837BC929E}.Release|Win32.Build.0 = Release|Win32
+		{9BAB41CE-52F1-4155-988F-DCBCD8453557}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9BAB41CE-52F1-4155-988F-DCBCD8453557}.Debug|Win32.Build.0 = Debug|Win32
+		{9BAB41CE-52F1-4155-988F-DCBCD8453557}.Release|Win32.ActiveCfg = Release|Win32
+		{9BAB41CE-52F1-4155-988F-DCBCD8453557}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

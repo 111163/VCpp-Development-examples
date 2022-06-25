@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "复制串", "复制串\复�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "固定长度的数组参数", "固定长度的数组参数\固定长度的数组参数.vcxproj", "{C3711E21-1120-4E9F-AB40-C08229F2CE8A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "桌面图标显示和隐藏", "桌面图标显示和隐藏\桌面图标显示和隐藏.vcxproj", "{734ADD3B-8F20-435F-BC6A-D08D3056E65E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -85,6 +87,10 @@ Global
 		{C3711E21-1120-4E9F-AB40-C08229F2CE8A}.Debug|Win32.Build.0 = Debug|Win32
 		{C3711E21-1120-4E9F-AB40-C08229F2CE8A}.Release|Win32.ActiveCfg = Release|Win32
 		{C3711E21-1120-4E9F-AB40-C08229F2CE8A}.Release|Win32.Build.0 = Release|Win32
+		{734ADD3B-8F20-435F-BC6A-D08D3056E65E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{734ADD3B-8F20-435F-BC6A-D08D3056E65E}.Debug|Win32.Build.0 = Debug|Win32
+		{734ADD3B-8F20-435F-BC6A-D08D3056E65E}.Release|Win32.ActiveCfg = Release|Win32
+		{734ADD3B-8F20-435F-BC6A-D08D3056E65E}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
