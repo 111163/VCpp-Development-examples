@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "固定长度的数组参数
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "桌面图标显示和隐藏", "桌面图标显示和隐藏\桌面图标显示和隐藏.vcxproj", "{734ADD3B-8F20-435F-BC6A-D08D3056E65E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "驱动光驱", "驱动光驱\驱动光驱.vcxproj", "{DDA75E82-8B86-4303-98F9-36F537FC43B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -91,6 +93,10 @@ Global
 		{734ADD3B-8F20-435F-BC6A-D08D3056E65E}.Debug|Win32.Build.0 = Debug|Win32
 		{734ADD3B-8F20-435F-BC6A-D08D3056E65E}.Release|Win32.ActiveCfg = Release|Win32
 		{734ADD3B-8F20-435F-BC6A-D08D3056E65E}.Release|Win32.Build.0 = Release|Win32
+		{DDA75E82-8B86-4303-98F9-36F537FC43B9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DDA75E82-8B86-4303-98F9-36F537FC43B9}.Debug|Win32.Build.0 = Debug|Win32
+		{DDA75E82-8B86-4303-98F9-36F537FC43B9}.Release|Win32.ActiveCfg = Release|Win32
+		{DDA75E82-8B86-4303-98F9-36F537FC43B9}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
