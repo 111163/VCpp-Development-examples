@@ -37,6 +37,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "设计控制浏览器行为
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "设计时间和字符串的转换类", "设计时间和字符串的转换类\设计时间和字符串的转换类.vcxproj", "{7B54F55D-BAB3-4410-9403-278CB330ADC7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ini文件读写类", "ini文件读写类\ini文件读写类.vcxproj", "{E6C8C96B-64DF-495D-BA44-FE44DFC68EE3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -115,6 +117,10 @@ Global
 		{7B54F55D-BAB3-4410-9403-278CB330ADC7}.Debug|Win32.Build.0 = Debug|Win32
 		{7B54F55D-BAB3-4410-9403-278CB330ADC7}.Release|Win32.ActiveCfg = Release|Win32
 		{7B54F55D-BAB3-4410-9403-278CB330ADC7}.Release|Win32.Build.0 = Release|Win32
+		{E6C8C96B-64DF-495D-BA44-FE44DFC68EE3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E6C8C96B-64DF-495D-BA44-FE44DFC68EE3}.Debug|Win32.Build.0 = Debug|Win32
+		{E6C8C96B-64DF-495D-BA44-FE44DFC68EE3}.Release|Win32.ActiveCfg = Release|Win32
+		{E6C8C96B-64DF-495D-BA44-FE44DFC68EE3}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
