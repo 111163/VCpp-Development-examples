@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="CAboutDlg::__unnamed_enum_0210_1">
+        <TypeIdentifier>
+          <NewMemberFileName>文件标准对话框Dlg.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>文件标准对话框Dlg.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C文件标准对话框App">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>文件标准对话框.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C文件标准对话框Dlg">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="C文件标准对话框Dlg::__unnamed_enum_020f_1">
+        <TypeIdentifier>
+          <NewMemberFileName>文件标准对话框Dlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EACAAAEAAAAAAAAIABAAAAAAAAAIAgQAAAAAAAAQAAA=</HashCode>
+      <FileName>文件标准对话框Dlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
