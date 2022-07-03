@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "自定义消息", "自定�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "文件标准对话框", "文件标准对话框\文件标准对话框.vcxproj", "{48F11409-808F-41F7-B188-614E442C7875}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "修改对话框标题", "修改标题_欢迎_退出确认_遍历控件_Esc按键屏蔽\修改对话框标题.vcxproj", "{8129E75B-8D66-4260-A170-96BF6C3ED6E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -91,6 +93,10 @@ Global
 		{48F11409-808F-41F7-B188-614E442C7875}.Debug|Win32.Build.0 = Debug|Win32
 		{48F11409-808F-41F7-B188-614E442C7875}.Release|Win32.ActiveCfg = Release|Win32
 		{48F11409-808F-41F7-B188-614E442C7875}.Release|Win32.Build.0 = Release|Win32
+		{8129E75B-8D66-4260-A170-96BF6C3ED6E7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8129E75B-8D66-4260-A170-96BF6C3ED6E7}.Debug|Win32.Build.0 = Debug|Win32
+		{8129E75B-8D66-4260-A170-96BF6C3ED6E7}.Release|Win32.ActiveCfg = Release|Win32
+		{8129E75B-8D66-4260-A170-96BF6C3ED6E7}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
