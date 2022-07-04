@@ -31,6 +31,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "文件标准对话框", "�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "修改对话框标题", "修改标题_欢迎_退出确认_遍历控件_Esc按键屏蔽\修改对话框标题.vcxproj", "{8129E75B-8D66-4260-A170-96BF6C3ED6E7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "登录界面2", "登录验证_始终最上_QQ隐藏_隐藏显示标题栏_设置MFCToolBar\登录界面2.vcxproj", "{B5AEAEED-0860-4BE4-A800-5981944C109D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "可调节透明度的窗体", "可调节透明度的窗体\可调节透明度的窗体.vcxproj", "{3EFCEE08-72C9-465E-87AF-19DAC33DBC1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -97,6 +101,14 @@ Global
 		{8129E75B-8D66-4260-A170-96BF6C3ED6E7}.Debug|Win32.Build.0 = Debug|Win32
 		{8129E75B-8D66-4260-A170-96BF6C3ED6E7}.Release|Win32.ActiveCfg = Release|Win32
 		{8129E75B-8D66-4260-A170-96BF6C3ED6E7}.Release|Win32.Build.0 = Release|Win32
+		{B5AEAEED-0860-4BE4-A800-5981944C109D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B5AEAEED-0860-4BE4-A800-5981944C109D}.Debug|Win32.Build.0 = Debug|Win32
+		{B5AEAEED-0860-4BE4-A800-5981944C109D}.Release|Win32.ActiveCfg = Release|Win32
+		{B5AEAEED-0860-4BE4-A800-5981944C109D}.Release|Win32.Build.0 = Release|Win32
+		{3EFCEE08-72C9-465E-87AF-19DAC33DBC1D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3EFCEE08-72C9-465E-87AF-19DAC33DBC1D}.Debug|Win32.Build.0 = Debug|Win32
+		{3EFCEE08-72C9-465E-87AF-19DAC33DBC1D}.Release|Win32.ActiveCfg = Release|Win32
+		{3EFCEE08-72C9-465E-87AF-19DAC33DBC1D}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
