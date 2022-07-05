@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "登录界面2", "登录验�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "可调节透明度的窗体", "可调节透明度的窗体\可调节透明度的窗体.vcxproj", "{3EFCEE08-72C9-465E-87AF-19DAC33DBC1D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "单文档应用程序", "单文档应用程序_视图背景OnDraw_视图初始化_拆分窗口\单文档应用程序.vcxproj", "{D891BB96-BB51-4B37-B9EF-35470435FDF8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -109,6 +111,10 @@ Global
 		{3EFCEE08-72C9-465E-87AF-19DAC33DBC1D}.Debug|Win32.Build.0 = Debug|Win32
 		{3EFCEE08-72C9-465E-87AF-19DAC33DBC1D}.Release|Win32.ActiveCfg = Release|Win32
 		{3EFCEE08-72C9-465E-87AF-19DAC33DBC1D}.Release|Win32.Build.0 = Release|Win32
+		{D891BB96-BB51-4B37-B9EF-35470435FDF8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D891BB96-BB51-4B37-B9EF-35470435FDF8}.Debug|Win32.Build.0 = Debug|Win32
+		{D891BB96-BB51-4B37-B9EF-35470435FDF8}.Release|Win32.ActiveCfg = Release|Win32
+		{D891BB96-BB51-4B37-B9EF-35470435FDF8}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
