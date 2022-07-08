@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "单文档应用程序", "�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "星座物语2", "视图和工具栏配合_星座物语\星座物语2.vcxproj", "{46748B8C-B1CF-41E2-9FBB-5FAE38ACA09B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "图标导航", "图标导航_分割窗口_分割窗口互相通信\图标导航.vcxproj", "{FED1F1DC-F12F-4BBB-BB97-E07298DEE456}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -121,6 +123,10 @@ Global
 		{46748B8C-B1CF-41E2-9FBB-5FAE38ACA09B}.Debug|Win32.Build.0 = Debug|Win32
 		{46748B8C-B1CF-41E2-9FBB-5FAE38ACA09B}.Release|Win32.ActiveCfg = Release|Win32
 		{46748B8C-B1CF-41E2-9FBB-5FAE38ACA09B}.Release|Win32.Build.0 = Release|Win32
+		{FED1F1DC-F12F-4BBB-BB97-E07298DEE456}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FED1F1DC-F12F-4BBB-BB97-E07298DEE456}.Debug|Win32.Build.0 = Debug|Win32
+		{FED1F1DC-F12F-4BBB-BB97-E07298DEE456}.Release|Win32.ActiveCfg = Release|Win32
+		{FED1F1DC-F12F-4BBB-BB97-E07298DEE456}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
