@@ -37,6 +37,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "可调节透明度的窗体
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "单文档应用程序", "单文档应用程序_视图背景OnDraw_视图初始化_拆分窗口\单文档应用程序.vcxproj", "{D891BB96-BB51-4B37-B9EF-35470435FDF8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "星座物语2", "视图和工具栏配合_星座物语\星座物语2.vcxproj", "{46748B8C-B1CF-41E2-9FBB-5FAE38ACA09B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -115,6 +117,10 @@ Global
 		{D891BB96-BB51-4B37-B9EF-35470435FDF8}.Debug|Win32.Build.0 = Debug|Win32
 		{D891BB96-BB51-4B37-B9EF-35470435FDF8}.Release|Win32.ActiveCfg = Release|Win32
 		{D891BB96-BB51-4B37-B9EF-35470435FDF8}.Release|Win32.Build.0 = Release|Win32
+		{46748B8C-B1CF-41E2-9FBB-5FAE38ACA09B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{46748B8C-B1CF-41E2-9FBB-5FAE38ACA09B}.Debug|Win32.Build.0 = Debug|Win32
+		{46748B8C-B1CF-41E2-9FBB-5FAE38ACA09B}.Release|Win32.ActiveCfg = Release|Win32
+		{46748B8C-B1CF-41E2-9FBB-5FAE38ACA09B}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
