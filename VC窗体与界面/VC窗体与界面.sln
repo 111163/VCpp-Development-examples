@@ -43,6 +43,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "图标导航", "图标导�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "树形导航", "树形导航_树形视图添加节点_通过继承修改框架中类的行为\树形导航.vcxproj", "{5461F7EC-467B-4573-9B18-829492988207}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "表单视图中设计窗体", "表单视图中设计窗体[对话框视图]_控件大小等比例变化\表单视图中设计窗体.vcxproj", "{3EDBD0F3-3B4D-4B52-9C24-F9FE190D4BDB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -133,6 +135,10 @@ Global
 		{5461F7EC-467B-4573-9B18-829492988207}.Debug|Win32.Build.0 = Debug|Win32
 		{5461F7EC-467B-4573-9B18-829492988207}.Release|Win32.ActiveCfg = Release|Win32
 		{5461F7EC-467B-4573-9B18-829492988207}.Release|Win32.Build.0 = Release|Win32
+		{3EDBD0F3-3B4D-4B52-9C24-F9FE190D4BDB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3EDBD0F3-3B4D-4B52-9C24-F9FE190D4BDB}.Debug|Win32.Build.0 = Debug|Win32
+		{3EDBD0F3-3B4D-4B52-9C24-F9FE190D4BDB}.Release|Win32.ActiveCfg = Release|Win32
+		{3EDBD0F3-3B4D-4B52-9C24-F9FE190D4BDB}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
