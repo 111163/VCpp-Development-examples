@@ -51,6 +51,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "对话框调用文档视图
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "使用HTML视图设计网页浏览器", "使用HTML视图设计网页浏览器_dlgbar附加到框架上[设置]\使用HTML视图设计网页浏览器.vcxproj", "{49A9FF31-90CF-4AB0-A9C2-AAC6AB1E4866}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "浮动窗口", "浮动窗口_涉及到对话框_浮动窗口_窗口大小自动调整(比较复杂)\浮动窗口.vcxproj", "{DA72D544-CFAD-497A-97F7-6E3A6EB2B224}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -157,6 +159,10 @@ Global
 		{49A9FF31-90CF-4AB0-A9C2-AAC6AB1E4866}.Debug|Win32.Build.0 = Debug|Win32
 		{49A9FF31-90CF-4AB0-A9C2-AAC6AB1E4866}.Release|Win32.ActiveCfg = Release|Win32
 		{49A9FF31-90CF-4AB0-A9C2-AAC6AB1E4866}.Release|Win32.Build.0 = Release|Win32
+		{DA72D544-CFAD-497A-97F7-6E3A6EB2B224}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DA72D544-CFAD-497A-97F7-6E3A6EB2B224}.Debug|Win32.Build.0 = Debug|Win32
+		{DA72D544-CFAD-497A-97F7-6E3A6EB2B224}.Release|Win32.ActiveCfg = Release|Win32
+		{DA72D544-CFAD-497A-97F7-6E3A6EB2B224}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
