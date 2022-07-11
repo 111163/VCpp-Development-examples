@@ -49,6 +49,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "目录树视图", "目录�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "对话框调用文档视图(打印)", "对话框调用文档视图(打印)\对话框调用文档视图(打印).vcxproj", "{A8ADFA6E-6AD0-4B80-BA82-0242E9CC5F78}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "使用HTML视图设计网页浏览器", "使用HTML视图设计网页浏览器_dlgbar附加到框架上[设置]\使用HTML视图设计网页浏览器.vcxproj", "{49A9FF31-90CF-4AB0-A9C2-AAC6AB1E4866}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -151,6 +153,10 @@ Global
 		{A8ADFA6E-6AD0-4B80-BA82-0242E9CC5F78}.Debug|Win32.Build.0 = Debug|Win32
 		{A8ADFA6E-6AD0-4B80-BA82-0242E9CC5F78}.Release|Win32.ActiveCfg = Release|Win32
 		{A8ADFA6E-6AD0-4B80-BA82-0242E9CC5F78}.Release|Win32.Build.0 = Release|Win32
+		{49A9FF31-90CF-4AB0-A9C2-AAC6AB1E4866}.Debug|Win32.ActiveCfg = Debug|Win32
+		{49A9FF31-90CF-4AB0-A9C2-AAC6AB1E4866}.Debug|Win32.Build.0 = Debug|Win32
+		{49A9FF31-90CF-4AB0-A9C2-AAC6AB1E4866}.Release|Win32.ActiveCfg = Release|Win32
+		{49A9FF31-90CF-4AB0-A9C2-AAC6AB1E4866}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
