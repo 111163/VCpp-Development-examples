@@ -1,0 +1,32 @@
+
+// 复选框统计信息.h : PROJECT_NAME 应用程序的主头文件
+//
+
+#pragma once
+
+#ifndef __AFXWIN_H__
+	#error "在包含此文件之前包含“stdafx.h”以生成 PCH 文件"
+#endif
+
+#include "resource.h"		// 主符号
+
+
+// C复选框统计信息App:
+// 有关此类的实现，请参阅 复选框统计信息.cpp
+//
+
+class C复选框统计信息App : public CWinApp
+{
+public:
+	C复选框统计信息App();
+
+// 重写
+public:
+	virtual BOOL InitInstance();
+
+// 实现
+
+	DECLARE_MESSAGE_MAP()
+};
+
+extern C复选框统计信息App theApp;
