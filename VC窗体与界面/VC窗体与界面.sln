@@ -53,6 +53,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "使用HTML视图设计网�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "浮动窗口", "浮动窗口_涉及到对话框_浮动窗口_窗口大小自动调整(比较复杂)★\浮动窗口.vcxproj", "{DA72D544-CFAD-497A-97F7-6E3A6EB2B224}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "自绘静态文本", "自绘静态文本_静态文本和单多选的背景透明\自绘静态文本.vcxproj", "{F2516409-9FC3-4F4E-ABB7-4EF0E77ADAD6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -163,6 +165,10 @@ Global
 		{DA72D544-CFAD-497A-97F7-6E3A6EB2B224}.Debug|Win32.Build.0 = Debug|Win32
 		{DA72D544-CFAD-497A-97F7-6E3A6EB2B224}.Release|Win32.ActiveCfg = Release|Win32
 		{DA72D544-CFAD-497A-97F7-6E3A6EB2B224}.Release|Win32.Build.0 = Release|Win32
+		{F2516409-9FC3-4F4E-ABB7-4EF0E77ADAD6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F2516409-9FC3-4F4E-ABB7-4EF0E77ADAD6}.Debug|Win32.Build.0 = Debug|Win32
+		{F2516409-9FC3-4F4E-ABB7-4EF0E77ADAD6}.Release|Win32.ActiveCfg = Release|Win32
+		{F2516409-9FC3-4F4E-ABB7-4EF0E77ADAD6}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
