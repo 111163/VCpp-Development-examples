@@ -61,6 +61,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "金额转换", "金额转�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "密码属性", "实现真正密码属性_在ctlcolor绘制背景\密码属性.vcxproj", "{1260DA47-724F-4676-AC96-035B40E451E7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "列表项的上移下移", "列表项的上移下移\列表项的上移下移.vcxproj", "{3B4E680F-9206-4AEE-96C4-4DF75CA0D9F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -187,6 +189,10 @@ Global
 		{1260DA47-724F-4676-AC96-035B40E451E7}.Debug|Win32.Build.0 = Debug|Win32
 		{1260DA47-724F-4676-AC96-035B40E451E7}.Release|Win32.ActiveCfg = Release|Win32
 		{1260DA47-724F-4676-AC96-035B40E451E7}.Release|Win32.Build.0 = Release|Win32
+		{3B4E680F-9206-4AEE-96C4-4DF75CA0D9F6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3B4E680F-9206-4AEE-96C4-4DF75CA0D9F6}.Debug|Win32.Build.0 = Debug|Win32
+		{3B4E680F-9206-4AEE-96C4-4DF75CA0D9F6}.Release|Win32.ActiveCfg = Release|Win32
+		{3B4E680F-9206-4AEE-96C4-4DF75CA0D9F6}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
