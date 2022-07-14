@@ -65,6 +65,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "列表项的上移下移", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "列表框数据交换", "列表框数据交换_左(右)移全部左(右)移\列表框数据交换.vcxproj", "{A7E5BD43-4CC9-4621-AA54-A0037DC3FE41}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "电子时钟", "电子时钟_数码管效果_CMemDC避免闪烁_子类化和DDX技术\电子时钟.vcxproj", "{09AF5B3E-8E83-4EE4-BA32-67AE2CE800F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -199,6 +201,10 @@ Global
 		{A7E5BD43-4CC9-4621-AA54-A0037DC3FE41}.Debug|Win32.Build.0 = Debug|Win32
 		{A7E5BD43-4CC9-4621-AA54-A0037DC3FE41}.Release|Win32.ActiveCfg = Release|Win32
 		{A7E5BD43-4CC9-4621-AA54-A0037DC3FE41}.Release|Win32.Build.0 = Release|Win32
+		{09AF5B3E-8E83-4EE4-BA32-67AE2CE800F9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{09AF5B3E-8E83-4EE4-BA32-67AE2CE800F9}.Debug|Win32.Build.0 = Debug|Win32
+		{09AF5B3E-8E83-4EE4-BA32-67AE2CE800F9}.Release|Win32.ActiveCfg = Release|Win32
+		{09AF5B3E-8E83-4EE4-BA32-67AE2CE800F9}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
