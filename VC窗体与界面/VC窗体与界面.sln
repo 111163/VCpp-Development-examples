@@ -67,6 +67,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "列表框数据交换", "�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "电子时钟", "电子时钟_数码管效果_CMemDC避免闪烁_子类化和DDX技术\电子时钟.vcxproj", "{09AF5B3E-8E83-4EE4-BA32-67AE2CE800F9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "编辑框输入时列表框也显示", "编辑框输入时列表框也显示_键盘(鼠标)消息处理_ADO访问数据库\编辑框输入时列表框也显示.vcxproj", "{706B80F0-0CA9-4F6D-B26A-D3268626A983}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -205,6 +207,10 @@ Global
 		{09AF5B3E-8E83-4EE4-BA32-67AE2CE800F9}.Debug|Win32.Build.0 = Debug|Win32
 		{09AF5B3E-8E83-4EE4-BA32-67AE2CE800F9}.Release|Win32.ActiveCfg = Release|Win32
 		{09AF5B3E-8E83-4EE4-BA32-67AE2CE800F9}.Release|Win32.Build.0 = Release|Win32
+		{706B80F0-0CA9-4F6D-B26A-D3268626A983}.Debug|Win32.ActiveCfg = Debug|Win32
+		{706B80F0-0CA9-4F6D-B26A-D3268626A983}.Debug|Win32.Build.0 = Debug|Win32
+		{706B80F0-0CA9-4F6D-B26A-D3268626A983}.Release|Win32.ActiveCfg = Release|Win32
+		{706B80F0-0CA9-4F6D-B26A-D3268626A983}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
