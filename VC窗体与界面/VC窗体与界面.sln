@@ -73,6 +73,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "多彩编辑框", "多彩�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "带动画的按钮", "带动画的按钮_按钮重绘DrawItem\带动画的按钮.vcxproj", "{E5BE8E3F-9165-4C56-AEB4-C3703F436CBB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QQ登录式用户选择列表", "QQ登录式用户选择列表_可进行大量扩充\QQ登录式用户选择列表.vcxproj", "{1897A5C3-E00B-4E4E-9FBA-FFE5DFC5BD30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -223,6 +225,10 @@ Global
 		{E5BE8E3F-9165-4C56-AEB4-C3703F436CBB}.Debug|Win32.Build.0 = Debug|Win32
 		{E5BE8E3F-9165-4C56-AEB4-C3703F436CBB}.Release|Win32.ActiveCfg = Release|Win32
 		{E5BE8E3F-9165-4C56-AEB4-C3703F436CBB}.Release|Win32.Build.0 = Release|Win32
+		{1897A5C3-E00B-4E4E-9FBA-FFE5DFC5BD30}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1897A5C3-E00B-4E4E-9FBA-FFE5DFC5BD30}.Debug|Win32.Build.0 = Debug|Win32
+		{1897A5C3-E00B-4E4E-9FBA-FFE5DFC5BD30}.Release|Win32.ActiveCfg = Release|Win32
+		{1897A5C3-E00B-4E4E-9FBA-FFE5DFC5BD30}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
