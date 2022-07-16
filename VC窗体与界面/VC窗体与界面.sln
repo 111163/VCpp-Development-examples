@@ -75,11 +75,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "带动画的按钮", "带�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QQ登录式用户选择列表", "QQ登录式用户选择列表_可进行大量扩充\QQ登录式用户选择列表.vcxproj", "{1897A5C3-E00B-4E4E-9FBA-FFE5DFC5BD30}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "水平方向延伸", "水平方向延伸\水平方向延伸.vcxproj", "{77D753DA-9BCC-4C1C-9612-089915E3BF89}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "汉字拼音简码", "汉字拼音简码\汉字拼音简码.vcxproj", "{B1782056-D9FB-46E2-AF3F-45D3AB988A53}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "进制转换器", "进制转换器_注意数字和退格验证_拓展到从2到36进制\进制转换器.vcxproj", "{BB5DABE8-3858-45CF-99BE-4393F041247D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "实现问卷功能", "实现问卷功能\实现问卷功能.vcxproj", "{5293E907-7BF8-4121-B360-7CD07D0E12DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -235,10 +235,6 @@ Global
 		{1897A5C3-E00B-4E4E-9FBA-FFE5DFC5BD30}.Debug|Win32.Build.0 = Debug|Win32
 		{1897A5C3-E00B-4E4E-9FBA-FFE5DFC5BD30}.Release|Win32.ActiveCfg = Release|Win32
 		{1897A5C3-E00B-4E4E-9FBA-FFE5DFC5BD30}.Release|Win32.Build.0 = Release|Win32
-		{77D753DA-9BCC-4C1C-9612-089915E3BF89}.Debug|Win32.ActiveCfg = Debug|Win32
-		{77D753DA-9BCC-4C1C-9612-089915E3BF89}.Debug|Win32.Build.0 = Debug|Win32
-		{77D753DA-9BCC-4C1C-9612-089915E3BF89}.Release|Win32.ActiveCfg = Release|Win32
-		{77D753DA-9BCC-4C1C-9612-089915E3BF89}.Release|Win32.Build.0 = Release|Win32
 		{B1782056-D9FB-46E2-AF3F-45D3AB988A53}.Debug|Win32.ActiveCfg = Debug|Win32
 		{B1782056-D9FB-46E2-AF3F-45D3AB988A53}.Debug|Win32.Build.0 = Debug|Win32
 		{B1782056-D9FB-46E2-AF3F-45D3AB988A53}.Release|Win32.ActiveCfg = Release|Win32
@@ -247,6 +243,10 @@ Global
 		{BB5DABE8-3858-45CF-99BE-4393F041247D}.Debug|Win32.Build.0 = Debug|Win32
 		{BB5DABE8-3858-45CF-99BE-4393F041247D}.Release|Win32.ActiveCfg = Release|Win32
 		{BB5DABE8-3858-45CF-99BE-4393F041247D}.Release|Win32.Build.0 = Release|Win32
+		{5293E907-7BF8-4121-B360-7CD07D0E12DC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5293E907-7BF8-4121-B360-7CD07D0E12DC}.Debug|Win32.Build.0 = Debug|Win32
+		{5293E907-7BF8-4121-B360-7CD07D0E12DC}.Release|Win32.ActiveCfg = Release|Win32
+		{5293E907-7BF8-4121-B360-7CD07D0E12DC}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
