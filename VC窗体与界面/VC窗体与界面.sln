@@ -83,6 +83,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "实现问卷功能", "实�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "月历时间控件相互关联", "月历时间控件相互关联\月历时间控件相互关联.vcxproj", "{BAF56366-9226-46D1-9E6A-9AE62A240F37}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "控件随对话框等比例变化", "控件随对话框等比例变化_注意构造函数_开始的时候不能使用OnSize\控件随对话框等比例变化.vcxproj", "{E8F08F42-C1D5-4484-97E3-FEE3ACEE83D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -253,6 +255,10 @@ Global
 		{BAF56366-9226-46D1-9E6A-9AE62A240F37}.Debug|Win32.Build.0 = Debug|Win32
 		{BAF56366-9226-46D1-9E6A-9AE62A240F37}.Release|Win32.ActiveCfg = Release|Win32
 		{BAF56366-9226-46D1-9E6A-9AE62A240F37}.Release|Win32.Build.0 = Release|Win32
+		{E8F08F42-C1D5-4484-97E3-FEE3ACEE83D7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E8F08F42-C1D5-4484-97E3-FEE3ACEE83D7}.Debug|Win32.Build.0 = Debug|Win32
+		{E8F08F42-C1D5-4484-97E3-FEE3ACEE83D7}.Release|Win32.ActiveCfg = Release|Win32
+		{E8F08F42-C1D5-4484-97E3-FEE3ACEE83D7}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
