@@ -91,6 +91,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "使用组合框列举磁盘
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "为ListBox添加背景", "为ListBox添加背景_还有Bug就是选中一直往下拖会报错\为ListBox添加背景.vcxproj", "{9B31882F-7DAE-4768-831D-70352EF7CFCE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "带历史信息的菜单", "带历史信息的菜单_折叠展开菜单项_改变可选状态_擦除背景消息\带历史信息的菜单.vcxproj", "{A58EC35B-666B-4D6A-85FB-26703A3CF1CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -277,6 +279,10 @@ Global
 		{9B31882F-7DAE-4768-831D-70352EF7CFCE}.Debug|Win32.Build.0 = Debug|Win32
 		{9B31882F-7DAE-4768-831D-70352EF7CFCE}.Release|Win32.ActiveCfg = Release|Win32
 		{9B31882F-7DAE-4768-831D-70352EF7CFCE}.Release|Win32.Build.0 = Release|Win32
+		{A58EC35B-666B-4D6A-85FB-26703A3CF1CD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A58EC35B-666B-4D6A-85FB-26703A3CF1CD}.Debug|Win32.Build.0 = Debug|Win32
+		{A58EC35B-666B-4D6A-85FB-26703A3CF1CD}.Release|Win32.ActiveCfg = Release|Win32
+		{A58EC35B-666B-4D6A-85FB-26703A3CF1CD}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
