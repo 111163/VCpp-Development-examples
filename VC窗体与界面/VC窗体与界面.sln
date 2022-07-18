@@ -87,6 +87,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "控件随对话框等比例
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "汉字和区位码转换", "汉字和区位码转换_互相转换算法\汉字和区位码转换.vcxproj", "{25A0D6FD-2E58-4469-9077-83E1953262EB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "使用组合框列举磁盘目录", "使用组合框列举磁盘目录\使用组合框列举磁盘目录.vcxproj", "{5C1F246E-B629-4C78-99F4-57746180E561}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -265,6 +267,10 @@ Global
 		{25A0D6FD-2E58-4469-9077-83E1953262EB}.Debug|Win32.Build.0 = Debug|Win32
 		{25A0D6FD-2E58-4469-9077-83E1953262EB}.Release|Win32.ActiveCfg = Release|Win32
 		{25A0D6FD-2E58-4469-9077-83E1953262EB}.Release|Win32.Build.0 = Release|Win32
+		{5C1F246E-B629-4C78-99F4-57746180E561}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5C1F246E-B629-4C78-99F4-57746180E561}.Debug|Win32.Build.0 = Debug|Win32
+		{5C1F246E-B629-4C78-99F4-57746180E561}.Release|Win32.ActiveCfg = Release|Win32
+		{5C1F246E-B629-4C78-99F4-57746180E561}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
