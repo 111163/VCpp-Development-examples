@@ -17,6 +17,10 @@ void C创建弹出式菜单Dlg::OnRButtonUp(UINT nFlags, CPoint point)
 //	::SetMenuInfo(pMenu->m_hMenu, &mnInfo);   在VC6.0中没有封装这个函数，要直接调用
 	pMenu->SetMenuInfo(&mnInfo);   // 设置背景位图
 
+
+
+
+
 	CBitmap            m_BmpList[3];
 	for(int i=0; i<3; i++)
 	{
@@ -29,6 +33,18 @@ void C创建弹出式菜单Dlg::OnRButtonUp(UINT nFlags, CPoint point)
 	}
 	pMenu->SetMenuItemBitmaps(3, MF_BYPOSITION, 
 		&m_BmpList[2], &m_BmpList[2]);       // 设置子项图标
+
+	
+	// 当然本身添加子项或插入子项的时候就可以加载到图标
+	// BOOL AppendMenu( UINT nFlags, UINT nIDNewItem = 0, LPCTSTR lpszNewItem = NULL );
+	// BOOL AppendMenu( UINT nFlags, UINT nIDNewItem, const CBitmap* pBmp );
+
+	// BOOL InsertMenu( UINT nPosition, UINT nFlags, UINT nIDNewItem = 0, LPCTSTR lpszNewItem = NULL );
+	// BOOL InsertMenu( UINT nPosition, UINT nFlags, UINT nIDNewItem, const CBitmap* pBmp );
+
+
+
+	
 
 	CRect rect;                          
 	ClientToScreen(&point);
