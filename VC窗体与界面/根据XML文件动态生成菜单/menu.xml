@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MYMENU>
+<MENU text="采购管理">
+<MENU text="采购退货">
+</MENU>
+<MENU text="商品采购">
+</MENU>
+</MENU>
+<MENU text="查询管理">
+<MENU text="采购退货查询">
+</MENU>
+<MENU text="商品采购查询">
+</MENU>
+<MENU text="商品采购查询">
+</MENU>
+<MENU text="商品采购查询">
+</MENU>
+</MENU>
+<MENU text="基础信息">
+<MENU text="操作员信息">
+</MENU>
+<MENU text="商品信息">
+</MENU>
+<MENU text="员工信息">
+</MENU>
+</MENU>
+<MENU text="销售管理">
+<MENU text="商品销售管理">
+</MENU>
+<MENU text="销售退货管理">
+</MENU>
+</MENU>
+</MYMENU>
