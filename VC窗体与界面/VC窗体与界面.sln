@@ -99,6 +99,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "根据ini文件动态生成
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "根据XML文件动态生成菜单", "根据XML文件动态生成菜单\根据XML文件动态生成菜单.vcxproj", "{E4AEA987-82BC-489B-97D0-95276775C3CC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "任务栏托盘菜单", "任务栏托盘菜单\任务栏托盘菜单.vcxproj", "{1F43915A-FB65-442A-BB2D-BD62587CCD1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -301,6 +303,10 @@ Global
 		{E4AEA987-82BC-489B-97D0-95276775C3CC}.Debug|Win32.Build.0 = Debug|Win32
 		{E4AEA987-82BC-489B-97D0-95276775C3CC}.Release|Win32.ActiveCfg = Release|Win32
 		{E4AEA987-82BC-489B-97D0-95276775C3CC}.Release|Win32.Build.0 = Release|Win32
+		{1F43915A-FB65-442A-BB2D-BD62587CCD1F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1F43915A-FB65-442A-BB2D-BD62587CCD1F}.Debug|Win32.Build.0 = Debug|Win32
+		{1F43915A-FB65-442A-BB2D-BD62587CCD1F}.Release|Win32.ActiveCfg = Release|Win32
+		{1F43915A-FB65-442A-BB2D-BD62587CCD1F}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
