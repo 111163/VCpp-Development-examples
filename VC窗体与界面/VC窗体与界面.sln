@@ -103,6 +103,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "任务栏托盘菜单", "�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "状态栏操作", "状态栏设置_在状态栏中加入其它控件(进度条)\状态栏操作.vcxproj", "{626A63A2-4841-49C4-88CC-8A795AE66B0A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "根据菜单生成工具栏", "根据菜单生成工具栏\根据菜单生成工具栏.vcxproj", "{8A60DC1A-5FEB-4515-AEC7-3DE385C0FA9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -313,6 +315,10 @@ Global
 		{626A63A2-4841-49C4-88CC-8A795AE66B0A}.Debug|Win32.Build.0 = Debug|Win32
 		{626A63A2-4841-49C4-88CC-8A795AE66B0A}.Release|Win32.ActiveCfg = Release|Win32
 		{626A63A2-4841-49C4-88CC-8A795AE66B0A}.Release|Win32.Build.0 = Release|Win32
+		{8A60DC1A-5FEB-4515-AEC7-3DE385C0FA9F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8A60DC1A-5FEB-4515-AEC7-3DE385C0FA9F}.Debug|Win32.Build.0 = Debug|Win32
+		{8A60DC1A-5FEB-4515-AEC7-3DE385C0FA9F}.Release|Win32.ActiveCfg = Release|Win32
+		{8A60DC1A-5FEB-4515-AEC7-3DE385C0FA9F}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
