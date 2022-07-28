@@ -105,6 +105,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "状态栏操作", "状态�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "根据菜单生成工具栏", "根据菜单生成工具栏\根据菜单生成工具栏.vcxproj", "{8A60DC1A-5FEB-4515-AEC7-3DE385C0FA9F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "图像列表控件", "图像列表控件_列表视图_列表视图背景需要初始化COM\图像列表控件.vcxproj", "{D4A2122C-10EC-4ECC-AA2B-77451683E475}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -319,6 +321,10 @@ Global
 		{8A60DC1A-5FEB-4515-AEC7-3DE385C0FA9F}.Debug|Win32.Build.0 = Debug|Win32
 		{8A60DC1A-5FEB-4515-AEC7-3DE385C0FA9F}.Release|Win32.ActiveCfg = Release|Win32
 		{8A60DC1A-5FEB-4515-AEC7-3DE385C0FA9F}.Release|Win32.Build.0 = Release|Win32
+		{D4A2122C-10EC-4ECC-AA2B-77451683E475}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D4A2122C-10EC-4ECC-AA2B-77451683E475}.Debug|Win32.Build.0 = Debug|Win32
+		{D4A2122C-10EC-4ECC-AA2B-77451683E475}.Release|Win32.ActiveCfg = Release|Win32
+		{D4A2122C-10EC-4ECC-AA2B-77451683E475}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
