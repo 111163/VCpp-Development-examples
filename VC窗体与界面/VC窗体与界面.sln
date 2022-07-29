@@ -107,6 +107,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "根据菜单生成工具栏
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "图像列表控件", "图像列表控件_列表视图_列表视图背景需要初始化COM\图像列表控件.vcxproj", "{D4A2122C-10EC-4ECC-AA2B-77451683E475}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "修改树控件的文本颜色", "修改树控件的文本颜色_连接线_正常和点击时图标\修改树控件的文本颜色.vcxproj", "{1AA44EEA-9E02-4731-8259-E7FBBC098054}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -325,6 +327,10 @@ Global
 		{D4A2122C-10EC-4ECC-AA2B-77451683E475}.Debug|Win32.Build.0 = Debug|Win32
 		{D4A2122C-10EC-4ECC-AA2B-77451683E475}.Release|Win32.ActiveCfg = Release|Win32
 		{D4A2122C-10EC-4ECC-AA2B-77451683E475}.Release|Win32.Build.0 = Release|Win32
+		{1AA44EEA-9E02-4731-8259-E7FBBC098054}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1AA44EEA-9E02-4731-8259-E7FBBC098054}.Debug|Win32.Build.0 = Debug|Win32
+		{1AA44EEA-9E02-4731-8259-E7FBBC098054}.Release|Win32.ActiveCfg = Release|Win32
+		{1AA44EEA-9E02-4731-8259-E7FBBC098054}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
