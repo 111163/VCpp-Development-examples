@@ -109,6 +109,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "图像列表控件", "图�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "修改树控件的文本颜色", "修改树控件的文本颜色_连接线_正常和点击时图标\修改树控件的文本颜色.vcxproj", "{1AA44EEA-9E02-4731-8259-E7FBBC098054}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "绘图之字体", "绘图对象_文本_图形_BMP图像_绘制控件\绘图之字体.vcxproj", "{79865053-A647-47B2-8B29-8E651BCA500D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -331,6 +333,10 @@ Global
 		{1AA44EEA-9E02-4731-8259-E7FBBC098054}.Debug|Win32.Build.0 = Debug|Win32
 		{1AA44EEA-9E02-4731-8259-E7FBBC098054}.Release|Win32.ActiveCfg = Release|Win32
 		{1AA44EEA-9E02-4731-8259-E7FBBC098054}.Release|Win32.Build.0 = Release|Win32
+		{79865053-A647-47B2-8B29-8E651BCA500D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{79865053-A647-47B2-8B29-8E651BCA500D}.Debug|Win32.Build.0 = Debug|Win32
+		{79865053-A647-47B2-8B29-8E651BCA500D}.Release|Win32.ActiveCfg = Release|Win32
+		{79865053-A647-47B2-8B29-8E651BCA500D}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
