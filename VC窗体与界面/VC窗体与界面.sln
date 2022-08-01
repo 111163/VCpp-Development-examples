@@ -125,6 +125,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "根据点类型绘制图案
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "创建不同的画刷", "创建不同的画刷_颜色画刷_材质_DIB\创建不同的画刷.vcxproj", "{8FBCFC96-99E5-4B31-BE88-09E84D86725E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "绘制饼图", "绘制饼图_AngleArc(角弧)_划并且填充路径\绘制饼图.vcxproj", "{07AE6AA7-F923-4754-A874-638F668AD629}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -379,6 +381,10 @@ Global
 		{8FBCFC96-99E5-4B31-BE88-09E84D86725E}.Debug|Win32.Build.0 = Debug|Win32
 		{8FBCFC96-99E5-4B31-BE88-09E84D86725E}.Release|Win32.ActiveCfg = Release|Win32
 		{8FBCFC96-99E5-4B31-BE88-09E84D86725E}.Release|Win32.Build.0 = Release|Win32
+		{07AE6AA7-F923-4754-A874-638F668AD629}.Debug|Win32.ActiveCfg = Debug|Win32
+		{07AE6AA7-F923-4754-A874-638F668AD629}.Debug|Win32.Build.0 = Debug|Win32
+		{07AE6AA7-F923-4754-A874-638F668AD629}.Release|Win32.ActiveCfg = Release|Win32
+		{07AE6AA7-F923-4754-A874-638F668AD629}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
