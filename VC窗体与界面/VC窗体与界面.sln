@@ -123,6 +123,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "居中显示图片", "居�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "根据点类型绘制图案", "根据点类型绘制图案_路径_绘制五角星\根据点类型绘制图案.vcxproj", "{359E3342-A38C-4B08-A17A-8AAF68BA172F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "创建不同的画刷", "创建不同的画刷_颜色画刷_材质_DIB\创建不同的画刷.vcxproj", "{8FBCFC96-99E5-4B31-BE88-09E84D86725E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -373,6 +375,10 @@ Global
 		{359E3342-A38C-4B08-A17A-8AAF68BA172F}.Debug|Win32.Build.0 = Debug|Win32
 		{359E3342-A38C-4B08-A17A-8AAF68BA172F}.Release|Win32.ActiveCfg = Release|Win32
 		{359E3342-A38C-4B08-A17A-8AAF68BA172F}.Release|Win32.Build.0 = Release|Win32
+		{8FBCFC96-99E5-4B31-BE88-09E84D86725E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8FBCFC96-99E5-4B31-BE88-09E84D86725E}.Debug|Win32.Build.0 = Debug|Win32
+		{8FBCFC96-99E5-4B31-BE88-09E84D86725E}.Release|Win32.ActiveCfg = Release|Win32
+		{8FBCFC96-99E5-4B31-BE88-09E84D86725E}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
