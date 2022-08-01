@@ -119,6 +119,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GDIplus显示GIF动图", "G
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "绘制按钮", "绘制按钮+文字\绘制按钮.vcxproj", "{2C38554F-1265-463F-8224-39695BEA25D3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "居中显示图片", "居中显示图片_居中的数学意义\居中显示图片.vcxproj", "{CC36F267-4779-4CF9-AE84-42EC9E4A4438}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -361,6 +363,10 @@ Global
 		{2C38554F-1265-463F-8224-39695BEA25D3}.Debug|Win32.Build.0 = Debug|Win32
 		{2C38554F-1265-463F-8224-39695BEA25D3}.Release|Win32.ActiveCfg = Release|Win32
 		{2C38554F-1265-463F-8224-39695BEA25D3}.Release|Win32.Build.0 = Release|Win32
+		{CC36F267-4779-4CF9-AE84-42EC9E4A4438}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CC36F267-4779-4CF9-AE84-42EC9E4A4438}.Debug|Win32.Build.0 = Debug|Win32
+		{CC36F267-4779-4CF9-AE84-42EC9E4A4438}.Release|Win32.ActiveCfg = Release|Win32
+		{CC36F267-4779-4CF9-AE84-42EC9E4A4438}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
