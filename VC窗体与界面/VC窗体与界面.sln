@@ -121,6 +121,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "绘制按钮", "绘制按�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "居中显示图片", "居中显示图片_居中的数学意义\居中显示图片.vcxproj", "{CC36F267-4779-4CF9-AE84-42EC9E4A4438}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "根据点类型绘制图案", "根据点类型绘制图案_路径_绘制五角星\根据点类型绘制图案.vcxproj", "{359E3342-A38C-4B08-A17A-8AAF68BA172F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -367,6 +369,10 @@ Global
 		{CC36F267-4779-4CF9-AE84-42EC9E4A4438}.Debug|Win32.Build.0 = Debug|Win32
 		{CC36F267-4779-4CF9-AE84-42EC9E4A4438}.Release|Win32.ActiveCfg = Release|Win32
 		{CC36F267-4779-4CF9-AE84-42EC9E4A4438}.Release|Win32.Build.0 = Release|Win32
+		{359E3342-A38C-4B08-A17A-8AAF68BA172F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{359E3342-A38C-4B08-A17A-8AAF68BA172F}.Debug|Win32.Build.0 = Debug|Win32
+		{359E3342-A38C-4B08-A17A-8AAF68BA172F}.Release|Win32.ActiveCfg = Release|Win32
+		{359E3342-A38C-4B08-A17A-8AAF68BA172F}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
