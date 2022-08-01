@@ -115,6 +115,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "显示JPEG图像", "显示J
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GDIplus使用", "GDI+使用_BMP-jpeg-gif转码\GDIplus使用.vcxproj", "{385CB16E-10B7-4811-A3A7-C738CCDBB815}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GDIplus显示GIF动图", "GDIplus显示GIF动图\GDIplus显示GIF动图.vcxproj", "{7DDB2990-30E8-4DB7-8E56-D9FC33E46960}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -349,6 +351,10 @@ Global
 		{385CB16E-10B7-4811-A3A7-C738CCDBB815}.Debug|Win32.Build.0 = Debug|Win32
 		{385CB16E-10B7-4811-A3A7-C738CCDBB815}.Release|Win32.ActiveCfg = Release|Win32
 		{385CB16E-10B7-4811-A3A7-C738CCDBB815}.Release|Win32.Build.0 = Release|Win32
+		{7DDB2990-30E8-4DB7-8E56-D9FC33E46960}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7DDB2990-30E8-4DB7-8E56-D9FC33E46960}.Debug|Win32.Build.0 = Debug|Win32
+		{7DDB2990-30E8-4DB7-8E56-D9FC33E46960}.Release|Win32.ActiveCfg = Release|Win32
+		{7DDB2990-30E8-4DB7-8E56-D9FC33E46960}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
