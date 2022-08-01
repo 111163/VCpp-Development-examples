@@ -117,6 +117,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GDIplus使用", "GDI+使用
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GDIplus显示GIF动图", "GDIplus显示GIF动图\GDIplus显示GIF动图.vcxproj", "{7DDB2990-30E8-4DB7-8E56-D9FC33E46960}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "绘制按钮", "绘制按钮+文字\绘制按钮.vcxproj", "{2C38554F-1265-463F-8224-39695BEA25D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -355,6 +357,10 @@ Global
 		{7DDB2990-30E8-4DB7-8E56-D9FC33E46960}.Debug|Win32.Build.0 = Debug|Win32
 		{7DDB2990-30E8-4DB7-8E56-D9FC33E46960}.Release|Win32.ActiveCfg = Release|Win32
 		{7DDB2990-30E8-4DB7-8E56-D9FC33E46960}.Release|Win32.Build.0 = Release|Win32
+		{2C38554F-1265-463F-8224-39695BEA25D3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2C38554F-1265-463F-8224-39695BEA25D3}.Debug|Win32.Build.0 = Debug|Win32
+		{2C38554F-1265-463F-8224-39695BEA25D3}.Release|Win32.ActiveCfg = Release|Win32
+		{2C38554F-1265-463F-8224-39695BEA25D3}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
