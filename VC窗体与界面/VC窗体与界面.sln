@@ -133,6 +133,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "验证码生成", "验证�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "绘制自定义线条", "绘制自定义线条_对透明画刷的理解\绘制自定义线条.vcxproj", "{AD22030E-6896-490A-91A7-BB89E15B241B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "绘制渐变颜色的空心字", "绘制渐变颜色的空心字_路径和区域的布尔运算\绘制渐变颜色的空心字.vcxproj", "{C2367AF1-9F73-4821-99A5-B92A9EA7D210}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -403,6 +405,10 @@ Global
 		{AD22030E-6896-490A-91A7-BB89E15B241B}.Debug|Win32.Build.0 = Debug|Win32
 		{AD22030E-6896-490A-91A7-BB89E15B241B}.Release|Win32.ActiveCfg = Release|Win32
 		{AD22030E-6896-490A-91A7-BB89E15B241B}.Release|Win32.Build.0 = Release|Win32
+		{C2367AF1-9F73-4821-99A5-B92A9EA7D210}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C2367AF1-9F73-4821-99A5-B92A9EA7D210}.Debug|Win32.Build.0 = Debug|Win32
+		{C2367AF1-9F73-4821-99A5-B92A9EA7D210}.Release|Win32.ActiveCfg = Release|Win32
+		{C2367AF1-9F73-4821-99A5-B92A9EA7D210}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
