@@ -137,6 +137,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "绘制渐变颜色的空心
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "背景渐变字形另外", "背景渐变_根据点类型绘制\背景渐变字形另外.vcxproj", "{6C337B3E-F248-434E-BD30-8EF748EC235C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ClassAndRS", "MFC拓展动态库(可以在库内使用MFC类)\ClassAndRS.vcxproj", "{D25EDBEA-12DE-4164-B411-5E8C5051B324}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -415,6 +417,10 @@ Global
 		{6C337B3E-F248-434E-BD30-8EF748EC235C}.Debug|Win32.Build.0 = Debug|Win32
 		{6C337B3E-F248-434E-BD30-8EF748EC235C}.Release|Win32.ActiveCfg = Release|Win32
 		{6C337B3E-F248-434E-BD30-8EF748EC235C}.Release|Win32.Build.0 = Release|Win32
+		{D25EDBEA-12DE-4164-B411-5E8C5051B324}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D25EDBEA-12DE-4164-B411-5E8C5051B324}.Debug|Win32.Build.0 = Debug|Win32
+		{D25EDBEA-12DE-4164-B411-5E8C5051B324}.Release|Win32.ActiveCfg = Release|Win32
+		{D25EDBEA-12DE-4164-B411-5E8C5051B324}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
