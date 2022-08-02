@@ -135,6 +135,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "绘制自定义线条", "�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "绘制渐变颜色的空心字", "绘制渐变颜色的空心字_路径和区域的布尔运算\绘制渐变颜色的空心字.vcxproj", "{C2367AF1-9F73-4821-99A5-B92A9EA7D210}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "背景渐变字形另外", "背景渐变_根据点类型绘制\背景渐变字形另外.vcxproj", "{6C337B3E-F248-434E-BD30-8EF748EC235C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -409,6 +411,10 @@ Global
 		{C2367AF1-9F73-4821-99A5-B92A9EA7D210}.Debug|Win32.Build.0 = Debug|Win32
 		{C2367AF1-9F73-4821-99A5-B92A9EA7D210}.Release|Win32.ActiveCfg = Release|Win32
 		{C2367AF1-9F73-4821-99A5-B92A9EA7D210}.Release|Win32.Build.0 = Release|Win32
+		{6C337B3E-F248-434E-BD30-8EF748EC235C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6C337B3E-F248-434E-BD30-8EF748EC235C}.Debug|Win32.Build.0 = Debug|Win32
+		{6C337B3E-F248-434E-BD30-8EF748EC235C}.Release|Win32.ActiveCfg = Release|Win32
+		{6C337B3E-F248-434E-BD30-8EF748EC235C}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
