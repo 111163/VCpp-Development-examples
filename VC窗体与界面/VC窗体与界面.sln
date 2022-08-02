@@ -129,6 +129,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "绘制饼图", "绘制饼�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "模拟时钟", "模拟时钟_理解计算机中的角度和三角函数\模拟时钟.vcxproj", "{74455F66-5111-4C40-BF3B-F72EEA9728D9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "验证码生成", "验证码生成_字符和汉字\验证码生成.vcxproj", "{59B9BDDF-80A9-4B48-9D6C-6AEFD98966C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -391,6 +393,10 @@ Global
 		{74455F66-5111-4C40-BF3B-F72EEA9728D9}.Debug|Win32.Build.0 = Debug|Win32
 		{74455F66-5111-4C40-BF3B-F72EEA9728D9}.Release|Win32.ActiveCfg = Release|Win32
 		{74455F66-5111-4C40-BF3B-F72EEA9728D9}.Release|Win32.Build.0 = Release|Win32
+		{59B9BDDF-80A9-4B48-9D6C-6AEFD98966C5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{59B9BDDF-80A9-4B48-9D6C-6AEFD98966C5}.Debug|Win32.Build.0 = Debug|Win32
+		{59B9BDDF-80A9-4B48-9D6C-6AEFD98966C5}.Release|Win32.ActiveCfg = Release|Win32
+		{59B9BDDF-80A9-4B48-9D6C-6AEFD98966C5}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
