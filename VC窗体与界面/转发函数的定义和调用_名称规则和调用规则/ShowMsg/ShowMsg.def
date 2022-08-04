@@ -1,0 +1,4 @@
+LIBRARY
+EXPORTS
+	ShowMsg @1
+	ShowM=user32.MessageBoxA
