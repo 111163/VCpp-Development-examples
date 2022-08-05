@@ -141,6 +141,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ClassAndRS", "MFC拓展动�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFC使用win32动态库", "MFC使用拓展动态库-规则动态库-静态动态加载\MFC使用win32动态库.vcxproj", "{71A01688-F537-4A7B-9390-7F2E4DDE880E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UserFile", "C形式和CFile形式的文件操作\UserFile.vcxproj", "{A85C80B2-96CC-44C3-8CB9-FDC2215743B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -427,6 +429,10 @@ Global
 		{71A01688-F537-4A7B-9390-7F2E4DDE880E}.Debug|Win32.Build.0 = Debug|Win32
 		{71A01688-F537-4A7B-9390-7F2E4DDE880E}.Release|Win32.ActiveCfg = Release|Win32
 		{71A01688-F537-4A7B-9390-7F2E4DDE880E}.Release|Win32.Build.0 = Release|Win32
+		{A85C80B2-96CC-44C3-8CB9-FDC2215743B2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A85C80B2-96CC-44C3-8CB9-FDC2215743B2}.Debug|Win32.Build.0 = Debug|Win32
+		{A85C80B2-96CC-44C3-8CB9-FDC2215743B2}.Release|Win32.ActiveCfg = Release|Win32
+		{A85C80B2-96CC-44C3-8CB9-FDC2215743B2}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
