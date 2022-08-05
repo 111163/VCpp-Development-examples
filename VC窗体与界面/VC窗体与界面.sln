@@ -143,6 +143,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFC使用win32动态库", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UserFile", "C形式和CFile形式的文件操作\UserFile.vcxproj", "{A85C80B2-96CC-44C3-8CB9-FDC2215743B2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FindFile类使用", "FindFile类使用(用来查找文件)_注意MatchesMask函数发生了变化\FindFile类使用.vcxproj", "{C19609F9-59CC-49C9-978B-06914B2BBA70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -433,6 +435,10 @@ Global
 		{A85C80B2-96CC-44C3-8CB9-FDC2215743B2}.Debug|Win32.Build.0 = Debug|Win32
 		{A85C80B2-96CC-44C3-8CB9-FDC2215743B2}.Release|Win32.ActiveCfg = Release|Win32
 		{A85C80B2-96CC-44C3-8CB9-FDC2215743B2}.Release|Win32.Build.0 = Release|Win32
+		{C19609F9-59CC-49C9-978B-06914B2BBA70}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C19609F9-59CC-49C9-978B-06914B2BBA70}.Debug|Win32.Build.0 = Debug|Win32
+		{C19609F9-59CC-49C9-978B-06914B2BBA70}.Release|Win32.ActiveCfg = Release|Win32
+		{C19609F9-59CC-49C9-978B-06914B2BBA70}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
