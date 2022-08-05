@@ -145,6 +145,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UserFile", "C形式和CFile
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FindFile类使用", "FindFile类使用(用来查找文件)_注意MatchesMask函数发生了变化\FindFile类使用.vcxproj", "{C19609F9-59CC-49C9-978B-06914B2BBA70}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "序列化的实现", "序列化的实现_处理普通数据\序列化的实现.vcxproj", "{BDF03D18-3D24-4D00-B5E3-340CF4185D95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -439,6 +441,10 @@ Global
 		{C19609F9-59CC-49C9-978B-06914B2BBA70}.Debug|Win32.Build.0 = Debug|Win32
 		{C19609F9-59CC-49C9-978B-06914B2BBA70}.Release|Win32.ActiveCfg = Release|Win32
 		{C19609F9-59CC-49C9-978B-06914B2BBA70}.Release|Win32.Build.0 = Release|Win32
+		{BDF03D18-3D24-4D00-B5E3-340CF4185D95}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BDF03D18-3D24-4D00-B5E3-340CF4185D95}.Debug|Win32.Build.0 = Debug|Win32
+		{BDF03D18-3D24-4D00-B5E3-340CF4185D95}.Release|Win32.ActiveCfg = Release|Win32
+		{BDF03D18-3D24-4D00-B5E3-340CF4185D95}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
