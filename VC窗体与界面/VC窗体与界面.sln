@@ -147,6 +147,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FindFile类使用", "FindFi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "序列化的实现", "序列化的实现_处理普通数据\序列化的实现.vcxproj", "{BDF03D18-3D24-4D00-B5E3-340CF4185D95}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Serialize", "序列化的实现_处理类\Serialize.vcxproj", "{6B1BD1B4-603C-4CFB-82F1-507F63B27C40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -445,6 +447,10 @@ Global
 		{BDF03D18-3D24-4D00-B5E3-340CF4185D95}.Debug|Win32.Build.0 = Debug|Win32
 		{BDF03D18-3D24-4D00-B5E3-340CF4185D95}.Release|Win32.ActiveCfg = Release|Win32
 		{BDF03D18-3D24-4D00-B5E3-340CF4185D95}.Release|Win32.Build.0 = Release|Win32
+		{6B1BD1B4-603C-4CFB-82F1-507F63B27C40}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6B1BD1B4-603C-4CFB-82F1-507F63B27C40}.Debug|Win32.Build.0 = Debug|Win32
+		{6B1BD1B4-603C-4CFB-82F1-507F63B27C40}.Release|Win32.ActiveCfg = Release|Win32
+		{6B1BD1B4-603C-4CFB-82F1-507F63B27C40}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
