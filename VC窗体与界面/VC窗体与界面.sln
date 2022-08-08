@@ -151,6 +151,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Serialize", "序列化的�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ini文件的操作", "ini文件的操作\ini文件的操作.vcxproj", "{3B6C0627-D185-4FB2-BF8E-F3C9A4F29361}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "API操作注册表", "API操作注册表\API操作注册表.vcxproj", "{4227EAA1-5016-4D8D-AD65-0910038C7D91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -457,6 +459,10 @@ Global
 		{3B6C0627-D185-4FB2-BF8E-F3C9A4F29361}.Debug|Win32.Build.0 = Debug|Win32
 		{3B6C0627-D185-4FB2-BF8E-F3C9A4F29361}.Release|Win32.ActiveCfg = Release|Win32
 		{3B6C0627-D185-4FB2-BF8E-F3C9A4F29361}.Release|Win32.Build.0 = Release|Win32
+		{4227EAA1-5016-4D8D-AD65-0910038C7D91}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4227EAA1-5016-4D8D-AD65-0910038C7D91}.Debug|Win32.Build.0 = Debug|Win32
+		{4227EAA1-5016-4D8D-AD65-0910038C7D91}.Release|Win32.ActiveCfg = Release|Win32
+		{4227EAA1-5016-4D8D-AD65-0910038C7D91}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
