@@ -155,6 +155,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "API操作注册表", "API�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "通过类操作注册表", "通过类CRegKey操作注册表\通过类操作注册表.vcxproj", "{F19F1C78-14DB-4319-B32F-E9C6C6122B0E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFC多线程", "MFC多线程_创建和结束\MFC多线程.vcxproj", "{041C4E7A-EE4F-417C-AF48-5144B8E9A2DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -469,6 +471,10 @@ Global
 		{F19F1C78-14DB-4319-B32F-E9C6C6122B0E}.Debug|Win32.Build.0 = Debug|Win32
 		{F19F1C78-14DB-4319-B32F-E9C6C6122B0E}.Release|Win32.ActiveCfg = Release|Win32
 		{F19F1C78-14DB-4319-B32F-E9C6C6122B0E}.Release|Win32.Build.0 = Release|Win32
+		{041C4E7A-EE4F-417C-AF48-5144B8E9A2DD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{041C4E7A-EE4F-417C-AF48-5144B8E9A2DD}.Debug|Win32.Build.0 = Debug|Win32
+		{041C4E7A-EE4F-417C-AF48-5144B8E9A2DD}.Release|Win32.ActiveCfg = Release|Win32
+		{041C4E7A-EE4F-417C-AF48-5144B8E9A2DD}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
